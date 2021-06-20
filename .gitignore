@@ -142,3 +142,4 @@ Scripts/
 etc/
 pyvenv.cfg
 share/
+Include/
